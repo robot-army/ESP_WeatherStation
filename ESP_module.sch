@@ -431,8 +431,6 @@ Wire Wire Line
 	3050 5600 3050 5700
 Wire Wire Line
 	3050 6000 3050 6200
-Text HLabel 5300 950  0    60   BiDi ~ 0
-ESP_GPIO0
 Text HLabel 5300 1050 0    60   BiDi ~ 0
 ESP_GPIO2
 Text HLabel 5300 1450 0    60   Input ~ 0
@@ -443,40 +441,18 @@ Text Label 7600 2350 0    60   ~ 0
 TXD
 Text Label 7600 2450 0    60   ~ 0
 RXD
-Text Label 7600 2550 0    60   ~ 0
-ESP_GPIO5
-Text Label 7600 2650 0    60   ~ 0
-ESP_GPIO4
-Text Label 4550 2650 0    60   ~ 0
-ESP_GPIO16
-Text Label 4550 2750 0    60   ~ 0
-ESP_GPIO14
-Text Label 4550 2850 0    60   ~ 0
-ESP_GPIO12
-Text Label 4550 2950 0    60   ~ 0
-ESP_GPIO13
 Wire Wire Line
 	6950 2350 7600 2350
 Wire Wire Line
 	7600 2450 6950 2450
 Wire Wire Line
-	6950 2550 7600 2550
-Wire Wire Line
-	7600 2650 6950 2650
-Wire Wire Line
-	5150 2650 4550 2650
-Wire Wire Line
 	4550 2750 5150 2750
 Wire Wire Line
 	5150 2850 4550 2850
-Wire Wire Line
-	4550 2950 5150 2950
 Text HLabel 5300 1150 0    60   BiDi ~ 0
 ESP_GPIO12
 Text HLabel 5300 1250 0    60   BiDi ~ 0
 ESP_GPIO14
-Text Label 5700 950  0    60   ~ 0
-ESP_GPIO
 Text Label 5700 1050 0    60   ~ 0
 ESP_GPIO2
 Text Label 5700 1150 0    60   ~ 0
@@ -487,8 +463,6 @@ Text Label 5700 1450 0    60   ~ 0
 RXD
 Text Label 5700 1550 0    60   ~ 0
 TXD
-Wire Wire Line
-	5300 950  5700 950 
 Wire Wire Line
 	5300 1050 5700 1050
 Wire Wire Line
@@ -530,4 +504,19 @@ Wire Wire Line
 Wire Wire Line
 	7100 3050 7100 3250
 NoConn ~ 5150 2450
+NoConn ~ 6300 3550
+NoConn ~ 6200 3550
+NoConn ~ 6100 3550
+NoConn ~ 6000 3550
+NoConn ~ 5900 3550
+NoConn ~ 5800 3550
+NoConn ~ 3250 4450
+Text Label 4550 2850 0    60   ~ 0
+ESP_GPIO12
+Text Label 4550 2750 0    60   ~ 0
+ESP_GPIO14
+NoConn ~ 6950 2550
+NoConn ~ 6950 2650
+NoConn ~ 5150 2950
+NoConn ~ 5150 2650
 $EndSCHEMATC
