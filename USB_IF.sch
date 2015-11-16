@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:weatherstation-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -90,12 +91,12 @@ F 3 "" H 6900 2950 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USB_OTG P1
+L USB_OTG-RESCUE-weatherstation P1
 U 1 1 563FE402
 P 1700 2100
 F 0 "P1" H 2025 1975 50  0000 C CNN
 F 1 "USB_OTG" H 1700 2300 50  0000 C CNN
-F 2 "ab2_usb:AB2_USB_MICRO_SMD" V 1650 2000 60  0001 C CNN
+F 2 "Connect:USB_Micro-B" V 1650 2000 60  0001 C CNN
 F 3 "" V 1650 2000 60  0000 C CNN
 	1    1700 2100
 	-1   0    0    -1  

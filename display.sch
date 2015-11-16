@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:weatherstation-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -119,4 +120,6 @@ Wire Wire Line
 NoConn ~ 4650 2900
 NoConn ~ 4650 3100
 NoConn ~ 4650 3200
+Text Notes 5600 3000 0    60   ~ 0
+Note, pullups are fitted on display module, 10k to 3V3
 $EndSCHEMATC
