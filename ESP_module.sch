@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:weatherstation-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -65,6 +64,7 @@ F 0 "SW2" H 9950 5060 50  0000 C CNN
 F 1 "SW_PUSH" H 9800 4870 50  0000 C CNN
 F 2 "EVQP2:SW_SPST_EVQP2" H 9800 4950 60  0001 C CNN
 F 3 "" H 9800 4950 60  0000 C CNN
+F 4 "http://uk.rs-online.com/web/p/tactile-switches/7561789/" H 9800 4950 60  0001 C CNN "RS_Part"
 	1    9800 4950
 	1    0    0    -1  
 $EndComp
@@ -277,6 +277,7 @@ F 0 "SW1" H 7850 5060 50  0000 C CNN
 F 1 "SW_PUSH" H 7700 4870 50  0000 C CNN
 F 2 "EVQP2:SW_SPST_EVQP2" H 7700 4950 60  0001 C CNN
 F 3 "" H 7700 4950 60  0000 C CNN
+F 4 "http://uk.rs-online.com/web/p/tactile-switches/7561789/" H 7700 4950 60  0001 C CNN "RS_Part"
 	1    7700 4950
 	1    0    0    -1  
 $EndComp

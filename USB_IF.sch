@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:weatherstation-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -98,6 +97,7 @@ F 0 "P1" H 2025 1975 50  0000 C CNN
 F 1 "USB_OTG" H 1700 2300 50  0000 C CNN
 F 2 "Connect:USB_Micro-B" V 1650 2000 60  0001 C CNN
 F 3 "" V 1650 2000 60  0000 C CNN
+F 4 "http://uk.rs-online.com/web/p/micro-usb-connectors/7795106/" H 1700 2100 60  0001 C CNN "RS_Part"
 	1    1700 2100
 	-1   0    0    -1  
 $EndComp
