@@ -1,4 +1,4 @@
-update=Sun 15 Nov 2015 04:45:06 PM PST
+update=Tue 12 Jan 2016 01:17:48 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=/home/robotarmy/kicad/libraries;/home/robotarmy/kicad/libraries/kicad-FT232;/home/robotarmy/ESP_WeatherStation
+LibDir=/home/robotarmy/ESP_WeatherStation;Libraries/kicad-FT232;Libraries/kicad-ESP8266
 [eeschema/libraries]
 LibName1=weatherstation-rescue
 LibName2=power
@@ -69,5 +69,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/robotarmy/kicad/libraries/kicad-ESP8266/ESP8266
-LibName32=kicad-FT232/ft232rl
+LibName31=Libraries/kicad-FT232/ft232rl
+LibName32=Libraries/kicad-ESP8266/ESP8266
