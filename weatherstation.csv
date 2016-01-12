@@ -1,15 +1,15 @@
-Id,Designator,Package,Quantity,Designation,Manufacturer,MPN,Supplier,Supplier Ref
-1,C1,R_0603_HandSoldering,1,100n,,,,
-2,C2,R_0805_HandSoldering,1,10u,,,,
-3,"C3,C4",R_0603_HandSoldering,2,10u,,,,
-4,"D1,D2,D3",R_0805_HandSoldering,3,LED,,,,
-5,P2,Pin_Header_Straight_1x08,1,CONN_01X08,Adafruit,938,ProtoPic,https://proto-pic.co.uk/monochrome-1-3-128x64-oled-graphic-display/
-6,R1,R_0805_HandSoldering,1,10R,,,,
-7,"R2,R3",R_0805_HandSoldering,2,1k,,,,
-8,"R4,R5,R6,R7,R8,R9",R_0805_HandSoldering,6,10k,,,,
-9,U2,SOT-23-5,1,APE8865Y5-33-HF-3,Exar,SPX3819M5-L-3-3/TR,RS,http://uk.rs-online.com/web/p/low-dropout-voltage-regulators/8472888/
-10,U3,ESP-12E,1,ESP-12E,,ESP-12E,ebay,http://www.ebay.co.uk/itm/151840327956
-11,U1,SSOP-28_5.3x10.2mm_Pitch0.65mm,1,FT232RL,FTDI,FT232RL,RS,http://uk.rs-online.com/web/p/universal-asynchronous-receivers-transmitters/0406580/
-13,"SW1,SW2",SW_SPST_EVQP2,2,SW_PUSH,Panasonic,EVQP2K02Q,RS,http://uk.rs-online.com/web/p/tactile-switches/7561789/
-14,P1,USB_Micro-B,1,USB_OTG,Hirose,ZX62D-B-5P8,RS,http://uk.rs-online.com/web/p/micro-usb-connectors/7795106/
-15,IC1,SOT-23-6,1,TMP100,TI,TMP100NA/250,RS,http://uk.rs-online.com/web/p/temperature-humidity-sensors/0526993/
+Id,Designator,Package,Quantity,Designation,Manufacturer,MPN,Supplier,Supplier Ref,
+1,C1,R_0603_HandSoldering,1,100n,,,,,
+2,C2,R_0805_HandSoldering,1,10u,,,,,
+3,"C3,C4",R_0603_HandSoldering,2,10u,,,,,
+4,"D1,D2,D3",R_0805_HandSoldering,3,LED,,,,,
+5,P2,Pin_Header_Straight_1x08,1,CONN_01X08,Adafruit,938,ProtoPic,https://proto-pic.co.uk/monochrome-1-3-128x64-oled-graphic-display/,21.64
+6,R1,R_0805_HandSoldering,1,10R,,,,,
+7,"R2,R3",R_0805_HandSoldering,2,1k,,,,,
+8,"R4,R5,R6,R7,R8,R9",R_0805_HandSoldering,6,10k,,,,,
+9,U2,SOT-23-5,1,APE8865Y5-33-HF-3,Exar,SPX3819M5-L-3-3/TR,RS,http://uk.rs-online.com/web/p/low-dropout-voltage-regulators/8472888/,0.51
+10,U3,ESP-12E,1,ESP-12E,,ESP-12E,ebay,http://www.ebay.co.uk/itm/151840327956,3.99
+11,U1,SSOP-28_5.3x10.2mm_Pitch0.65mm,1,FT232RL,FTDI,FT232RL,RS,http://uk.rs-online.com/web/p/universal-asynchronous-receivers-transmitters/0406580/,
+13,"SW1,SW2",SW_SPST_EVQP2,2,SW_PUSH,Panasonic,EVQP2K02Q,RS,http://uk.rs-online.com/web/p/tactile-switches/7561789/,0.36
+14,P1,USB_Micro-B,1,USB_OTG,Hirose,ZX62D-B-5P8,RS,http://uk.rs-online.com/web/p/micro-usb-connectors/7795106/,0.21
+15,IC1,SOT-23-6,1,TMP100,TI,TMP100NA/250,RS,http://uk.rs-online.com/web/p/temperature-humidity-sensors/0526993/,1.76
